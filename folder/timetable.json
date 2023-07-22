@@ -1,0 +1,239 @@
+{
+    "days": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period_id": "monprd1",
+            "start_time": "9:00 AM",
+            "end_time": "9:50 AM",
+            "subject": "Math"
+          },
+          {
+            "period_id": "monprd2",
+            "start_time": "10:00 AM",
+            "end_time": "10:50 AM",
+            "subject": "English"
+          },
+          {
+            "period_id": "monprd3",
+            "start_time": "11:00 AM",
+            "end_time": "11:50 AM",
+            "subject": "Science"
+          },
+          {
+            "period_id": "monprd4",
+            "start_time": "12:00 PM",
+            "end_time": "12:50 PM",
+            "subject": "History"
+          },
+          {
+            "period_id": "monprd5",
+            "start_time": "2:00 PM",
+            "end_time": "2:50 PM",
+            "subject": "Geography"
+          },
+          {
+            "period_id": "monprd6",
+            "start_time": "3:00 PM",
+            "end_time": "3:50 PM",
+            "subject": "Art"
+          },
+          {
+            "period_id": "monprd7",
+            "start_time": "4:00 PM",
+            "end_time": "4:50 PM",
+            "subject": "Physical Education"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period_id": "tueprd1",
+            "start_time": "9:00 AM",
+            "end_time": "9:50 AM",
+            "subject": "English"
+          },
+          {
+            "period_id": "tueprd2",
+            "start_time": "10:00 AM",
+            "end_time": "10:50 AM",
+            "subject": "Math"
+          },
+          {
+            "period_id": "tueprd3",
+            "start_time": "11:00 AM",
+            "end_time": "11:50 AM",
+            "subject": "Science"
+          },
+          {
+            "period_id": "tueprd4",
+            "start_time": "12:00 PM",
+            "end_time": "12:50 PM",
+            "subject": "Geography"
+          },
+          {
+            "period_id": "tueprd5",
+            "start_time": "2:00 PM",
+            "end_time": "2:50 PM",
+            "subject": "History"
+          },
+          {
+            "period_id": "tueprd6",
+            "start_time": "3:00 PM",
+            "end_time": "3:50 PM",
+            "subject": "Physical Education"
+          },
+          {
+            "period_id": "tueprd7",
+            "start_time": "4:00 PM",
+            "end_time": "4:50 PM",
+            "subject": "Art"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period_id": "wedprd1",
+            "start_time": "9:00 AM",
+            "end_time": "9:50 AM",
+            "subject": "Science"
+          },
+          {
+            "period_id": "wedprd2",
+            "start_time":"9:50 AM",
+            "end_time": "10:50 AM",
+            "subject": "English"
+          },
+          {
+            "period_id": "wedprd3",
+            "start_time": "11:00 AM",
+            "end_time": "11:50 AM",
+            "subject": "Physical Education"
+          },
+          {
+            "period_id": "wedprd4",
+            "start_time": "12:00 PM",
+            "end_time": "12:50 PM",
+            "subject": "Geography"
+          },
+          {
+            "period_id": "wedprd5",
+            "start_time": "2:00 PM",
+            "end_time": "2:50 PM",
+            "subject": "Math"
+          },
+          {
+            "period_id": "wedprd6",
+            "start_time": "3:00 PM",
+            "end_time": "3:50 PM",
+            "subject": "Art"
+          },
+          {
+            "period_id": "wedprd7",
+            "start_time": "4:00 PM",
+            "end_time": "4:50 PM",
+            "subject": "History"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period_id": "thuprd1",
+            "start_time": "9:00 AM",
+            "end_time": "9:50 AM",
+            "subject": "Geography"
+          },
+          {
+            "period_id": "thuprd2",
+            "start_time": "10:00 AM",
+            "end_time": "10:50 AM",
+            "subject": "Physical Education"
+          },
+          {
+            "period_id": "thuprd3",
+            "start_time": "11:00 AM",
+            "end_time": "11:50 AM",
+            "subject": "Math"
+          },
+          {
+            "period_id": "thuprd4",
+            "start_time": "12:00 PM",
+            "end_time": "12:50 PM",
+            "subject": "Art"
+          },
+          {
+            "period_id": "thuprd5",
+            "start_time": "2:00 PM",
+            "end_time": "2:50 PM",
+            "subject": "English"
+          },
+          {
+            "period_id": "thuprd6",
+            "start_time": "3:00 PM",
+            "end_time": "3:50 PM",
+            "subject": "History"
+          },
+          {
+            "period_id": "thuprd7",
+            "start_time": "4:00 PM",
+            "end_time": "4:50 PM",
+            "subject": "Science"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "periods": [
+          {
+            "period_id": "friprd1",
+            "start_time": "9:00 AM",
+            "end_time": "9:50 AM",
+            "subject": "Art"
+          },
+          {
+            "period_id": "friprd2",
+            "start_time": "10:00 AM",
+            "end_time": "10:50 AM",
+            "subject": "Geography"
+          },
+          {
+            "period_id": "friprd3",
+            "start_time": "11:00 AM",
+            "end_time": "11:50 AM",
+            "subject": "English"
+          },
+          {
+            "period_id": "friprd4",
+            "start_time": "12:00 PM",
+            "end_time": "12:50 PM",
+            "subject": "Science"
+          },
+          {
+            "period_id": "friprd5",
+            "start_time": "2:00 PM",
+            "end_time": "2:50 PM",
+            "subject": "Physical Education"
+          },
+          {
+            "period_id": "friprd6",
+            "start_time": "3:00 PM",
+            "end_time": "3:50 PM",
+            "subject": "History"
+          },
+          {
+            "period_id": "friprd7",
+            "start_time": "4:00 PM",
+            "end_time": "4:50 PM",
+            "subject": "Math"
+          }
+        ]
+      }
+    ]
+  }

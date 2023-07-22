@@ -1,0 +1,26 @@
+{
+  "name": "date-and-time-telegram-bot",
+  "version": "1.0.0",
+  "description": "date time utilty telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm demo.js"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "telegram"
+  ],
+  "author": "aakashvilly",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.19.1",
+    "firebase-admin": "^11.5.0",
+    "moment": "^2.29.4",
+    "pkg": "^5.8.0",
+    "telegraf": "^4.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

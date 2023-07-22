@@ -1,0 +1,34 @@
+{
+  "users": {
+    "123456789": {
+      "name": "John Doe",
+      "credit-value": 20,
+      "premium": false,
+      "cmd_count": 10
+    },
+    "987654321": {
+      "name": "Jane Doe",
+      "credit-value": 30,
+      "premium": true,
+      "cmd_count": 5
+    },
+    "456789123": {
+      "name": "Bob Smith",
+      "credit-value": 10,
+      "premium": false,
+      "cmd_count": 20
+    },
+    "789123456": {
+      "name": "Alice Johnson",
+      "credit-value": 50,
+      "premium": true,
+      "cmd_count": 15
+    },
+    "321654987": {
+      "name": "Mark Davis",
+      "credit-value": 25,
+      "premium": false,
+      "cmd_count": 8
+    }
+  }
+}
